@@ -1,0 +1,137 @@
+body {
+    background-color: black;
+}
+
+.callout.primary {
+    background-color: #0D0106;
+}
+
+.main-img {
+    background-image: url("https://static.pexels.com/photos/500631/pexels-photo-500631.jpeg");
+    background-image: url("../img/StockSnap_T7VWJ9PD7A.jpg");
+    background-size: cover;
+    background-color: #0D0106;
+    /*font-size: 10px;*/
+    color: white;
+    height: 100vh;
+}
+
+.my-info-section {
+    background-color: #07070A;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    /*height: 60vh;*/
+}
+
+.my-name {
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: bold;
+    font-size: 60px;
+}
+
+.lead {
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+/*.list-container {
+	background-color: crimson;
+}*/
+
+.list-container li {
+    padding: 8px;
+    font-weight: 300;
+    text-align: center;
+    background-color: crimson;
+}
+
+a {
+    color: white;
+}
+
+.navs:hover {
+    /*font-size: 20px;*/
+    background-color: #263238;
+}
+
+.center {
+    text-align: center;
+    /*background-color: black;*/
+    position: absolute;
+    top: 40%;
+}
+
+.projects {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 50px;
+    margin-bottom: 70px;
+	font-family: 'Titillium Web', sans-serif;
+	font-weight: bold;
+	font-size: 40px;
+}
+
+.single-project img {
+    /*background-color: crimson;*/
+    height: 200px;
+    width: 100%
+}
+
+h5 {
+    text-align: center;
+}
+
+.skills {
+    /*background-color: gray;*/
+    margin-top: 30px;
+    margin-bottom: 70px;
+
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.single-skill {
+    padding: 15px 0 15px 0;
+    color: white;
+}
+
+.single-skill1 {
+    background-color: #1C448E;
+}
+
+.single-skill2 {
+    background-color: #F4D35E;
+}
+
+.single-skill3 {
+    background-color: #35CE8D;
+}
+
+.single-skill4 {
+    background-color: #00A878;
+}
+
+.single-skill5 {
+    background-color: #383F51;
+}
+
+.single-skill6 {
+    background-color: #FF686B;
+}
+
+.single-skill7 {
+    background-color: #F95738;
+}
+
+.single-skill8 {
+    background-color: #1C0221;
+}
+
+.single-skill9 {
+    background-color: #D1495B;
+}
+
+.single-skill:hover {
+    background-color: #D1495B;
+}
